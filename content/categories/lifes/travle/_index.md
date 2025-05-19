@@ -1,10 +1,11 @@
 ---
-title: Example Category
+title: 旅行
 description: A description of this category
-image:
+image: 
+slug: life/travel
 
 # Badge style
 style:
-    background: "#2a9d8f"
+    background: "87aeb7"
     color: "#fff"
 ---

@@ -5,7 +5,7 @@ slug: First blog
 date: 2025-05-18 00:00:00+0000
 image: cover.jpg
 categories:
-    - Life
+    - 纪念
 tags:
     - 碎碎念
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)

@@ -1,11 +1,11 @@
 ---
-title: "Archives"
+title: "Categories"
 date: 2022-03-06
-layout: "archives"
-slug: "archives"
+layout: "categories"
+slug: "categories"
 menu:
     main:
         weight: 2
         params: 
-            icon: archives
+            icon: categories
 ---
