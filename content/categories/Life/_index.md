@@ -1,9 +1,7 @@
 ---
-title: 生活
+title: Life
 description: A description of this category
 image: 1.jpg
-slug: life
-lifes: ["纪念", "日常"]
 
 # Badge style
 style:

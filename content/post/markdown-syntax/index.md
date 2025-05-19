@@ -4,8 +4,11 @@ date: 2023-09-07
 description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
 tags: 
     - markdown
+    - css
+    - html
+    - themes
 categories:
-    - 技巧
+    - 教程
 math: true
 ---
 
