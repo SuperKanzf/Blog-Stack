@@ -6,6 +6,6 @@ slug: life
 
 # Badge style
 style:
-    background: "87aeb7"
+    background: "95cac5"
     color: "#fff"
 ---

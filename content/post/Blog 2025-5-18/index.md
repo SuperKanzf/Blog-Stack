@@ -1,11 +1,11 @@
 ---
 title: 我的第一篇博客
 description:
-slug: First blog
-date: 2025-05-18 00:00:00+0000
+slug: first-blog
+date: 2025-05-18
 image: cover.jpg
 categories:
-    - Life
+    - 生活
 tags:
     - 碎碎念
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
