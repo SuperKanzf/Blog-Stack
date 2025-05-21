@@ -1,6 +1,6 @@
 ---
 title: "关于我"
-date: 
+date: 2025-05-21
 layout: ""
 slug: "aboutme"
 readingTime: false
@@ -11,7 +11,7 @@ menu:
             icon: user
 ---
 
-#### Email
+# Email
 - kanzf@smail.nju.edu.cn  
 - zhuofankan@gmail.com
-### Academic Vitae
+# Academic Vitae
